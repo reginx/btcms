@@ -1,0 +1,11 @@
+src/apps/api/admin/node_modules
+src/apps/api/data/attachment/20*
+src/apps/api/data/cache/*
+src/apps/api/data/temp/*
+src/apps/api/data/log/*
+src/apps/dev
+src/apps/api/iface.2
+.DS_Store
+*.pyc
+.idea
+yarn.*

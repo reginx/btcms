@@ -1,0 +1,54 @@
+#login {
+  margin-top: 0;
+  padding-top: 60px;
+  background: #05668D;
+  height: 100vh;
+  position: fixed;
+  width: 100%;
+  top: 0;
+  left: 0;
+  z-index: 1;
+}
+
+#login .login-wrapper {
+  width: 360px;
+  margin: 15px auto 10px auto;
+  display: block;
+  border-radius: 5px;
+  padding: 20px 30px 5px 30px;
+  background: #f7f7f7;
+  box-shadow: 0 5px 15px rgba(0, 0, 0, .3);
+}
+
+#login .login-wrapper h1 {
+  font-size: 15px;
+  color: #353535;
+  font-weight: normal;
+  border-bottom: 1px solid #ddd;
+  padding-bottom: 8px;
+}
+
+#login .login-wrapper .login-form {
+  margin: 20px 0px;
+}
+
+#login .login-wrapper .login-form .form-group {
+  padding: 8px 0;
+}
+
+#login-wrapper h3 {
+  font-size: 13px;
+  font-weight: 200;
+  color: #ccc;
+  text-align: center;
+}
+
+#login-wrapper #login-form .form-group label {
+  font-size: 14px;
+  font-weight: 350;
+  color: #353535;
+}
+
+#login-wrapper #login-form .form-group input[type="password"] {
+  letter-spacing: 10px;
+}
